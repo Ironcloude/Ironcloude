@@ -15,7 +15,7 @@
   <br><br>
   <!-- Side-by-side diagrams scaled to 240px to maximize detail and fill horizontal space -->
   <a href="https://github.com/Ironcloude/MTL_BERT_CLASSIFICATION_JAIME_SPENCER_DSP_23037459">
-    <img width="45%" style="border-radius: 8px;" alt="Validation Accuracy and Loss Performance" src="https://github.com/user-attachments/assets/eb96242d-96fb-4d34-a1f4-51d4952b67b8" />
+    <img width="50%" height="800" alt="Picture2" src="https://github.com/user-attachments/assets/1c92b040-8bf9-4985-b17a-e9ee205f0fd3" />
   </a>
 
   <a href="https://github.com/Ironcloude/MTL_BERT_CLASSIFICATION_JAIME_SPENCER_DSP_23037459">
