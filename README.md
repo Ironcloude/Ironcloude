@@ -10,16 +10,16 @@
 <p align="center">
   <!-- Wide terminal image is made taller to naturally span much wider -->
   <a href="https://github.com/Ironcloude/MTL_BERT_CLASSIFICATION_JAIME_SPENCER_DSP_23037459">
-    <img height="260" style="border-radius: 8px;" alt="Model Predictions and Sample Input Text" src="https://github.com/user-attachments/assets/1c435fff-2022-487f-b0c6-961a8fe2e72b" />
+    <img style="border-radius: 8px;" alt="Model Predictions and Sample Input Text" src="https://github.com/user-attachments/assets/1c435fff-2022-487f-b0c6-961a8fe2e72b" />
   </a>
   <br><br>
   <!-- Side-by-side diagrams scaled to 240px to maximize detail and fill horizontal space -->
   <a href="https://github.com/Ironcloude/MTL_BERT_CLASSIFICATION_JAIME_SPENCER_DSP_23037459">
-    <img height="500" style="border-radius: 8px;" alt="Validation Accuracy and Loss Performance" src="https://github.com/user-attachments/assets/eb96242d-96fb-4d34-a1f4-51d4952b67b8" />
+    <img width="45%" style="border-radius: 8px;" alt="Validation Accuracy and Loss Performance" src="https://github.com/user-attachments/assets/eb96242d-96fb-4d34-a1f4-51d4952b67b8" />
   </a>
 
   <a href="https://github.com/Ironcloude/MTL_BERT_CLASSIFICATION_JAIME_SPENCER_DSP_23037459">
-<img height="500" alt="image" src="https://github.com/user-attachments/assets/85fd73d3-8c72-427e-a928-aa15596759e7" />
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/85fd73d3-8c72-427e-a928-aa15596759e7" />
   </a>
 </p>
 
