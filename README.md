@@ -1,5 +1,5 @@
 ## [Multi-task BERT-based Classification of Political Alignment in Online Media](https://github.com/Ironcloude/MTL_BERT_CLASSIFICATION_JAIME_SPENCER_DSP_23037459)
-`PyTorch` &nbsp; `Hugging Face` &nbsp; `NLP` &nbsp; `Research`
+`PyTorch` &nbsp; `Hugging Face` &nbsp; `NLP` &nbsp; `Research` &nbsp; `Encoder-only`
 
 **Dissertation Project**: _A comparative evaluation of transformer encoder architectures, assessing how sentiment-grounded Multi-Task Learning (MTL) affects Out-of-Distribution (OOD) generalisation in political bias classification._
 - Extended PyTorch and Hugging Face base classes to engineer a custom MTL framework, implementing a shared encoder backbone with task-specific classification heads.
